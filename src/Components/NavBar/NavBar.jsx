@@ -4,6 +4,7 @@ import {CgShoppingCart} from 'react-icons/cg'
 
 const NavBar = () => {
   return (
+      // Usamos un Navbar sencillo para navegar entre la aplicacion
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
